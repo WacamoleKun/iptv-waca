@@ -1,0 +1,48 @@
+#EXTM3U x-tvg-url="https://epg.tvnow.best/epg.xml.gz"
+
+########################################
+# 🎬 Películas
+########################################
+
+#EXTINF:-1 group-title="🎬 Películas",Pluto Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a0007d5c5d5/master.m3u8
+
+
+########################################
+# 📺 Entretenimiento
+########################################
+
+#EXTINF:-1 group-title="📺 Entretenimiento",FailArmy
+https://failarmy-international-1-ca.samsung.wurl.tv/playlist.m3u8
+
+
+########################################
+# ⚽ Deportes
+########################################
+
+#EXTINF:-1 group-title="⚽ Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+########################################
+# 📰 Noticias
+########################################
+
+#EXTINF:-1 group-title="📰 Noticias",France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+
+########################################
+# 📻 Radios
+########################################
+
+#EXTINF:-1 group-title="📻 Radios",Radio Bio Bio
+https://unlimited1-us.dps.live/biobio/aac/icecast.audio
+
+
+########################################
+# 🌎 Internacional
+########################################
+
+#EXTINF:-1 group-title="🌎 Internacional",NASA TV
+https://ntv1.akamaized.net/ntv1/playlist.m3u8
