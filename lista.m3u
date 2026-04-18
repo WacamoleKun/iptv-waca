@@ -36,7 +36,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ADN_CHILEAAC.a
 # 🎬 PELÍCULAS
 ########################################
 
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="🎬 Películas",Cinecanal
 ittp://45.65.137.206:8000/play/a0fb/index.m3u8 
 
 #EXTINF:-1 group-title="🎬 Películas",Pluto Cine Acción
@@ -50,16 +50,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d870d5f2f7d0007
 # 📺 ENTRETENIMIENTO
 ########################################
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="📺 Entretenimiento",Discovery Channel
 ttp://45.65.137.206:8000/play/a0g5/index.m3u8 
 
-#EXTINF:-1,History Channel
+#EXTINF:-1 group-title="📺 Entretenimiento",History Channel
 http://45.65.137.206:8000/play/aofa/index.m3u8
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="📺 Entretenimiento",Animal Planet
 http://45.65.137.206:8000/play/a0g6/index.m3u8 
 
-#EXTINF:-1,Canal Estrellas
+#EXTINF:-1 group-title="📺 Entretenimiento",Canal Estrellas
 ttp://45.65.137.206:8000/play/a0gg/index.m3u8 
 
 #EXTINF:-1 group-title="📺 Entretenimiento",FailArmy
@@ -72,19 +72,19 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 # ⚽ DEPORTES
 ########################################
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="⚽ Deportes",ESPN
 http://45.65.137.206:8000/play/a0gb/index.m3u8 
 
-#EXTINF:-1,ESPN 2 Latin
+#EXTINF:-1 group-title="⚽ Deportes",ESPN 2 Latin
 http://45.65.137.206:8000/play/a0ga/index.m3u8 
 
-#EXTINF:-1,FoX Sports 2
+#EXTINF:-1 group-title="⚽ Deportes",FoX Sports 2
 http://45.65.137.206:8000/play/a0gh/index.m3u8 
 
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="⚽ Deportes",Fox Sports 3
 ttp://45.65.137.206:8000/play/a0gi/index.m3u8 
 
-#EXTINF:-1,Claro Sports
+#EXTINF:-1 group-title="⚽ Deportes",Claro Sports
 ttp://45.65.137.206:8000/play/aofl/index.m3u8 
 
 #EXTINF:-1 group-title="⚽ Deportes",Red Bull TV
@@ -94,7 +94,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 # 👶 INFANTIL
 ########################################
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="👶 Infantil",Cartoon Network
 http://45.65.137.206:8000/play/a0fj/index.m3u8 
 
 #EXTINF:-1 group-title="👶 Infantil",Toon Goggles
