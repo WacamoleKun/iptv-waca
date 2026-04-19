@@ -59,7 +59,8 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 ########################################
 # ⚽ DEPORTES
 ########################################
-#EXTINF:-1 group-title="⚽ Deportes",
+#EXTINF:-1 group-title="⚽ Deportes",TNT SPORT PREMIUM
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/35_.m3u8?token=ysLMgEjAoxEmEOcdhzbhQQ&expires=1776612888
 
 #EXTINF:-1 group-title="⚽ Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
