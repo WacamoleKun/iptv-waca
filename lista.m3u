@@ -68,6 +68,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",ESPN Premium es
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/5_.m3u8?token=xTMUQ19r_9XqlBidb2pEWQ&expires=1776613597
 
+#EXTINF:-1 group-title="⚽ Deportes",ESPN
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/13_.m3u8?token=pSm9AfFL1MShTxRfTpcsMA&expires=1776613948
+
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/3_.m3u8?token=q51ZVUt82wu9XYSKFe7TkQ&expires=1776613764
 
