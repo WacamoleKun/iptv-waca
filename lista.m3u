@@ -111,7 +111,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/5_.m3u8?token=xTMUQ19r_9XqlBidb2pEWQ&expires=1776613597
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/13_.m3u8?token=pSm9AfFL1MShTxRfTpcsMA&expires=1776613948
+http://181.78.20.119:58002/play/a01c/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 2
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/14_.m3u8?token=EInRclCdqpZ5TZydb_s8tg&expires=1776614165
