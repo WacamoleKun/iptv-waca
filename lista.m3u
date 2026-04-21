@@ -40,10 +40,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ADN_CHILEAAC.a
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/49_.m3u8?token=03ggjRTfyrEUqM3eFxkQcg&expires=1776626084
 
 #EXTINF:-1 group-title="🎬 Películas",TNT
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/52_.m3u8?token=8WwhoEHkPAMgYy1aoIzQoA&expires=1776626154
+http://181.78.20.119:58002/play/a00o/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",TNT Series
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/53_.m3u8?token=X8-Xw-JMFxX3LXLEvZTmHQ&expires=1776626203
+http://181.78.20.119:58002/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",Star Channel
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/54_.m3u8?token=AwOXrTIe5Kgr0AP1FEDIJg&expires=1776626241
@@ -58,7 +58,7 @@ https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/56_.m3u8?token=lHpL
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/58_.m3u8?token=xd7FZEK-SBpkZZk1kEjOfA&expires=1776626451
 
 #EXTINF:-1 group-title="🎬 Películas",Cine Canal
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/59_.m3u8?token=wJLQeCxkcR0FkWeZKfCNGA&expires=1776626498
+http://181.78.20.119:58002/play/a00t/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",AMC
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/63_.m3u8?token=fxaNOQK-mUyORfX00EMJaw&expires=1776626549
@@ -81,10 +81,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/47_.m3u8?token=0emzdZPoQWQusKDcb-WlFA&expires=1776625610
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Animal Planet
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/46_.m3u8?token=W2x5tQPP0x-06I-HUdqoeQ&expires=1776625693
+http://181.78.20.119:58002/play/a00w/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Discovery Channel
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/37_.m3u8?token=vudH_n-viyPkqVrFTS2yKg&expires=1776625739
+http://181.78.20.119:58002/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",History
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/44_.m3u8?token=fxA_nfdwvfuQWzS0IPfiDQ&expires=1776625828
@@ -92,8 +92,8 @@ https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/44_.m3u8?token=fxA_
 #EXTINF:-1 group-title="📺 Entretenimiento",History 2
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/45_.m3u8?token=C1GqFX10cHDXs_86VxOoRQ&expires=1776625891
 
-#EXTINF:-1 group-title="📺 Entretenimiento",FailArmy
-https://failarmy-international-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="📺 Entretenimiento",Adult Swim
+http://181.78.20.119:58002/play/a06h/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",People Are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
@@ -114,19 +114,22 @@ https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/5_.m3u8?token=xTMUQ1
 http://181.78.20.119:58002/play/a01c/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 2
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/14_.m3u8?token=EInRclCdqpZ5TZydb_s8tg&expires=1776614165
+http://181.78.20.119:58002/play/a06m/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 3
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/15_.m3u8?token=JcXsSeoHcsjVfXXp6RN-gA&expires=1776614418
+http://181.78.20.119:58002/play/a00p/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 4
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/23_.m3u8?token=jyJC06h4uh_ymdteOGmgEA&expires=1776615808
+http://181.78.20.119:58002/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 5
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/24_.m3u8?token=v5MSoibTfk7-_08a1ZvYaA&expires=1776615859
+http://181.78.20.119:58002/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Deportes",ESPN 6
+http://181.78.20.119:58002/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 7
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/26_.m3u8?token=baMDaaNhj8jJ4uOuWi-Lvg&expires=1776615903
+http://181.78.20.119:58002/play/a06g/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Fox Sports
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/8_.m3u8?token=eaQebPSg3ft6-fiABvFGzw&expires=1776615943
@@ -142,10 +145,16 @@ https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/3_.m3u8?token=q51ZVU
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/28_.m3u8?token=o2TutytQ4M4GnNjOBLPicA&expires=1776625508
 
 #EXTINF:-1 group-title="👶 Infantil",Cartoon Network
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/31_.m3u8?token=WTt94qtGKzjbGceEXaiyaQ&expires=1776625434
+http://181.78.20.119:58002/play/a06o/index.m3u8
+
+#EXTINF:-1 group-title="👶 Infantil",Disney Junior
+http://181.78.20.119:58002/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="👶 Infantil",Discovery Kids
+http://181.78.20.119:58002/play/a00c/index.m3u8
 
 #EXTINF:-1 group-title="👶 Infantil",Tooncast
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/32_.m3u8?token=8UaIn-HkauoJhFJ8SdzZRQ&expires=1776625972
+http://181.78.20.119:58002/play/a013/index.m3u8
 
 
 ########################################
