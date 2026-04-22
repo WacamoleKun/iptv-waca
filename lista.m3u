@@ -143,6 +143,9 @@ http://181.177.255.253:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs Fight
 http://181.177.255.253:8000/play/a077/index.m3u8
 
+#EXTINF:-1 group-title="⚽ Deportes",Teletrac
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?/CISNEROSPRIVATE.m3u8
+
 ########################################
 # 👶 INFANTIL
 ########################################
