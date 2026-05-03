@@ -126,13 +126,13 @@ http://181.78.20.119:58002/play/a06g/index.m3u8
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/8_.m3u8?token=eaQebPSg3ft6-fiABvFGzw&expires=1776615943
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
-http://181.177.255.253:8000/play/a078/index.m3u8
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs 2
-http://181.177.255.253:8000/play/a076/index.m3u8
+http://190.61.41.181:8000/play/a0r4/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Deportes",DSPORTs Fight
-http://181.177.255.253:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes",DSPORTs +
+http://190.61.41.181:8000/play/a0r3/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Teletrac
 http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?/CISNEROSPRIVATE.m3u8
