@@ -123,7 +123,7 @@ http://181.78.20.119:58002/play/a00q/index.m3u8
 http://181.78.20.119:58002/play/a06g/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Fox Sports
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/8_.m3u8?token=eaQebPSg3ft6-fiABvFGzw&expires=1776615943
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
 http://190.61.41.181:8000/play/a0r5/index.m3u8
