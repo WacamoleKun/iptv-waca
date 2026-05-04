@@ -136,6 +136,10 @@ http://190.61.41.181:8000/play/a0r3/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Teletrac
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="⚽ Deportes",Real Madrid TV 🇪🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 ########################################
 # 👶 INFANTIL
 ########################################
