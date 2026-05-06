@@ -126,7 +126,7 @@ http://181.78.20.119:58002/play/a06g/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
-http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+http://38.224.175.2:8000/play/a0l4/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs 2
 http://190.61.41.181:8000/play/a0r4/index.m3u8
