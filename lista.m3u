@@ -99,7 +99,7 @@ http://170.244.209.30:8000/play/a0s9/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN Premium es
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjguMzAuMTg5/5_.m3u8?token=xTMUQ19r_9XqlBidb2pEWQ&expires=1776613597
+http://190.108.83.69:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN
 http://181.78.20.119:58002/play/a01c/index.m3u8
