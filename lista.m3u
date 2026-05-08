@@ -122,8 +122,8 @@ http://181.78.20.119:58002/play/a00q/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 7
 http://181.78.20.119:58002/play/a06g/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Deportes",Fox Sports
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="⚽ Deportes",Fox Sports 3
+http://45.181.123.194:8001/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
 http://38.224.175.2:8000/play/a0l4/index.m3u8
