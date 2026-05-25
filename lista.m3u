@@ -165,3 +165,5 @@ http://181.78.20.119:58002/play/a00c/index.m3u8
 #EXTINF:-1 group-title="👶 Infantil",Tooncast
 http://181.78.20.119:58002/play/a013/index.m3u8
 
+#EXTINF:-1 group-title="👶 Infantil",ETC TV
+http://iptv.wtf:80/live/chajnwae/9g3jYxlF03/15686.m3u8
