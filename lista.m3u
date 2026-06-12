@@ -131,6 +131,9 @@ http://45.170.225.212:58001/play/a018/index.m3u
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
 http://38.252.215.33:8000/play/a082/index.m3u8
 
+#EXTINF:-1 group-title="⚽ Deportes",DSPORTs OPCION 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs 2
 http://190.61.41.181:8000/play/a0r4/index.m3u8
 
