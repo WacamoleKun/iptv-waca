@@ -72,7 +72,11 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/47_.m3u8?token=0emzdZPoQWQusKDcb-WlFA&expires=1776625610
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Animal Planet
-http://181.78.20.119:58002/play/a00w/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0f14ddb59de156108c9ec71efcb4e84c":"4134822db513f70fbb181aa2c7e90f8b","6548549ca17750f1961ef9b9f3508ae5":"8520a36ce60cc90035e246184720866f","f622e57f8bf75a408a24eede2b4e3b83":"7431e6dc1a83da48b4a2f6506f66a063"}
+https://cdn-live.mundogo.cl/animalplanet/animalplanet.mpd
+
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Discovery Channel
 http://181.78.20.119:58002/play/a00b/index.m3u8
@@ -166,7 +170,10 @@ http://38.210.3.64:8090/play/A01E/index.m3u8
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/28_.m3u8?token=o2TutytQ4M4GnNjOBLPicA&expires=1776625508
 
 #EXTINF:-1 group-title="👶 Infantil",Cartoon Network
-http://server-c.normielista.stream/WBD_CARTOON_NETWORK_1351/mono.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"76560c26c71a5b579efcf0a4f145a141":"45409c0084c8179d7df69322a13303f4","6342b149c9d857f8bc960997f1bfea6e":"9ebd36d1dfa39889da0a06641c966054","d4b62769a394536db5b2b59f9d4cd1f9":"f7162a87d0fca729b8e597a56d93c153"}
+https://cdn-live.mundogo.cl/cartoonnetwork/cartoonnetwork.mpd
 
 #EXTINF:-1 group-title="👶 Infantil",Disney Junior
 http://181.78.20.119:58002/play/a00x/index.m3u8
