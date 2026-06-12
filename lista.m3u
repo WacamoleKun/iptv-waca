@@ -117,7 +117,12 @@ http://181.78.20.119:58002/play/a00u/index.m3u8
 http://181.78.20.119:58002/play/a00e/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 5 opcion2
-http://181.78.109.49:8000/play/a05i/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"259a071669ed4602b3d235046609d008":"c40e9347ddb212bc32c9c6b92910b18e","8a2bd7776a9d43b893bc9bbb213c04e0":"b2d671f59dccb173d58b3c32044f7c1f"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/FOXSP/default/index.mpd
+
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN 6
 http://181.78.20.119:58002/play/a00q/index.m3u8
