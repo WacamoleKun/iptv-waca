@@ -156,6 +156,9 @@ http://190.61.41.181:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs +
 http://190.61.41.181:8000/play/a0r3/index.m3u8
 
+#EXTINF:-1 group-title="⚽ Deportes",DSPORTs + Opcion2
+http://flowlive360net.com:80/luisdtvcol-2024/rTBNRDxuqESg/352.ts
+
 #EXTINF:-1 group-title="⚽ Deportes",Teletrac
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
