@@ -170,7 +170,10 @@ http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
 ########################################
 
 #EXTINF:-1 group-title="👶 Infantil",Disney Channel
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/28_.m3u8?token=o2TutytQ4M4GnNjOBLPicA&expires=1776625508
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"870291ed31d75b739a24d344aa4f7f63":"1f0aef4932464fb78a29ee841e374e9f","d72f22292af45986b10ac26966525012":"aa3f2589f62f56815bc33adc5d750c2a","37060c45eb935e85ab5d4880e50a1002":"0c36032fdaddd88e525b95e0e6c664fb"}
+https://cdn-live.mundogo.cl/disney/disney.mpd
 
 #EXTINF:-1 group-title="👶 Infantil",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -179,7 +182,11 @@ https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/28_.m3u8?token=o2Tu
 https://cdn-live.mundogo.cl/cartoonnetwork/cartoonnetwork.mpd
 
 #EXTINF:-1 group-title="👶 Infantil",Disney Junior
-http://181.78.20.119:58002/play/a00x/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6e148829cfa35c298488c96947f19cb0":"2eecadcb341d0fc3e9ebba25679a9965","207e32c0a1b250e791ff0474c5039a09":"e5532cbee43427a0dc428be8c247a5fc","5d62feb9459d5213a117393287d8a7b3":"a65a3ed32d9f858f4f3e7e850651a67d"}
+https://cdn-live.mundogo.cl/disneyjr/disneyjr.mpd
+
 
 #EXTINF:-1 group-title="👶 Infantil",Discovery Kids
 http://181.78.20.119:58002/play/a00c/index.m3u8
