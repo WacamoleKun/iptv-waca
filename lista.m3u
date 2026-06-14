@@ -88,7 +88,10 @@ https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/44_.m3u8?token=fxA_
 https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/45_.m3u8?token=C1GqFX10cHDXs_86VxOoRQ&expires=1776625891
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Adult Swim
-http://181.78.20.119:58002/play/a06h/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b62d22a574bc57c7a110062cb5d412d8":"d997e2d5eb59527641322977798a53de","e9a511b2ffa55eb790b3c6a36981b126":"c25913a171934472fc847380840ccaba","82bc651d0342547481165d558223094f":"5590f8af0b78d483a3d8c4981ece13e4"}
+https://cdn-live.mundogo.cl/adulswim/adulswim.mpd
 
 #EXTINF:-1 group-title="📺 Entretenimiento",People Are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
