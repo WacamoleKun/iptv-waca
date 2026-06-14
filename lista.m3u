@@ -177,7 +177,7 @@ http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
 #EXTINF:-1 group-title="⚽ Deportes",CHV deportes
-http://170.247.204.9:8000/play/a00d/index.m3u8
+https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
 
 ########################################
 # 👶 INFANTIL
