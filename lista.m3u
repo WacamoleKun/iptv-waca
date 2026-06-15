@@ -173,7 +173,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://38.210.3.64:8090/play/A01E/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",UFC TV HD eventos
-http://vipxtreamx.com:8080/live/7025729360/H4L4YHyrLr/211588.m3u8
+http://server-d.normielista.stream/NORMIELISTA_EVENTOS-1_1050/mono.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Deportes c13
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
