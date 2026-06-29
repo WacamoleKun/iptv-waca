@@ -17,7 +17,10 @@ https://redirector.dps.live/hls/13cl/playlist.m3u8
 http://190.108.83.69:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-name="La Red" group-title="🇨🇱 Chile TV",La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d352c203e2a054078da7f14831afca97":"35f37d9d2f88d577b229c691d1b29be3","2f7231c8daef580db39b8b8d18c87585":"f6979dbb635222277f80375d1d39d714","a4722e4cc6ac5ba395906b1c4da4d198":"abaae96560dadb365c3aaccf4500d477"}
+https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-name="T13" group-title="🇨🇱 Chile TV",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
@@ -82,10 +85,17 @@ https://cdn-live.mundogo.cl/animalplanet/animalplanet.mpd
 http://181.78.20.119:58002/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",History
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/44_.m3u8?token=fxA_nfdwvfuQWzS0IPfiDQ&expires=1776625828
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"637bc7ca0721556da4b53f5fa6239540":"c33f455bea6338770e92d5d4047f1256","bc74827a9d92559097debbb9c3839f4c":"5ab15cbaf53789d1b2d3f7026f325d65","f425358051dd5f55aba71c7d53d20dc5":"31e02fa40671a7dc0c29ab42bbedd65e"}
+https://cdn-live.mundogo.cl/history/history.mpd
 
 #EXTINF:-1 group-title="📺 Entretenimiento",History 2
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/45_.m3u8?token=C1GqFX10cHDXs_86VxOoRQ&expires=1776625891
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bc6f85e8a9e954aea2b24c2c3d00cba1":"a0efa4072fc8cddee3c0fe1092cecc5a","7d037ad5d3845312b48701da295d4ae7":"ad665d1e782bb5a2d2c74cc5035044ff","a2370e7545985a429cde8a0e685fc30d":"35a3774f2b9c7bc06d31221a48f89584"}
+https://cdn-live.mundogo.cl/history2/history2.mpd
+
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Adult Swim
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
