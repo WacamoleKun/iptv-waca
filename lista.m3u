@@ -158,7 +158,7 @@ http://181.78.20.119:58002/play/a06g/index.m3u8
 http://45.170.225.212:58001/play/a018/index.m3u
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs
-http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/249519.ts
+http://190.234.82.52:8000/play/ac5p/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs OPCION2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -171,7 +171,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/249520.ts
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs +
-http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/249521.ts
+http://207.210.102.121:1935/VRIO_TORNEOS_DSPORTS-PLUS_1128/mono.m3u8?token=71aeeba5b5b1afd8dccef6aa488d1dc81d8f577fa39dff27b264e8f8c7514965
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs + Opcion2
 http://flowlive360net.com:80/luisdtvcol-2024/rTBNRDxuqESg/352.ts
