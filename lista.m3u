@@ -31,7 +31,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 ########################################
 
 #EXTINF:-1 group-title="🎬 Películas",Universal Channel
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0cq/index.m3u8?device_id=c33c588009b9
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cq/index.m3u8?device_id=707c2773b075
 
 #EXTINF:-1 group-title="🎬 Películas",TNT
 http://181.78.20.119:58002/play/a00o/index.m3u8
@@ -43,19 +43,19 @@ http://181.78.20.119:58002/play/a00g/index.m3u8
 http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ds/index.m3u8?device_id=c33c588009b9
 
 #EXTINF:-1 group-title="🎬 Películas",Cine Max
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/55_.m3u8?token=D4xqZkRgW3f9I6mz9Ppq1A&expires=1776626301
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0by/index.m3u8?device_id=707c2773b075
 
 #EXTINF:-1 group-title="🎬 Películas",Space
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 group-title="🎬 Películas",Warner Channel
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0cl/index.m3u8?device_id=c33c588009b9
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cl/index.m3u8?device_id=707c2773b075
 
 #EXTINF:-1 group-title="🎬 Películas",Cine Canal
 http://181.78.20.119:58002/play/a00t/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",AMC
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/63_.m3u8?token=fxaNOQK-mUyORfX00EMJaw&expires=1776626549
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g8/index.m3u8?device_id=707c2773b075
 
 #EXTINF:-1 group-title="🎬 Películas",Pluto Cine Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a0007d5c5d5/master.m3u8
