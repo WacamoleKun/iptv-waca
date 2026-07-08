@@ -119,6 +119,9 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.mpd
 
+#EXTINF:-1 group-title="⚽ Deportes",TNT SPORT EVENTO MAX
+https://nubexplay.com:8443/live/CamiloFernandez3/bpfMvC/360791.ts
+
 #EXTINF:-1 group-title="⚽ Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
