@@ -171,11 +171,7 @@ http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fa/index.m3u8?device_id=707c2
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs OPCION2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+http://38.87.224.19:2220/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs 2
 http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/249520.ts
