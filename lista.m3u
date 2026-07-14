@@ -48,6 +48,9 @@ http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0by/index.m3u8?device_id=707c2
 #EXTINF:-1 group-title="🎬 Películas",Space
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
+#EXTINF:-1 group-title="🎬 Películas",Comedy Central
+http://170.79.235.130:8002/play/a02l/index.m3u8
+
 #EXTINF:-1 group-title="🎬 Películas",Warner Channel
 http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cl/index.m3u8?device_id=707c2773b075
 
