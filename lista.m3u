@@ -49,7 +49,7 @@ http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ds/index.m3u8?device_id
 http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0by/index.m3u8?device_id=707c2773b075
 
 #EXTINF:-1 group-title="🎬 Películas",Space
-https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
+http://45.181.120.65:9087/play/a0lu/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",Comedy Central
 http://170.79.235.130:8002/play/a02l/index.m3u8
@@ -81,7 +81,7 @@ http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/142698.ts
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",National Geographic
-https://regionales.saohgdasregions.fun:9092/MTc5LjguMzAuMTg5/47_.m3u8?token=0emzdZPoQWQusKDcb-WlFA&expires=1776625610
+http://190.211.172.203:4000/play/a0tg/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",Animal Planet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -180,13 +180,12 @@ http://190.234.82.52:8000/play/ac5p/index.m3u8
 http://38.87.224.19:2220/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs 2
-http://flexlive.lat:8080/live/ReneAcebedoRA/psrQTpU89VU2/249520.ts
+http://191.97.59.96:8126/play/5gf/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",DSPORTs +
-http://207.210.102.121:1935/VRIO_TORNEOS_DSPORTS-PLUS_1128/mono.m3u8?token=71aeeba5b5b1afd8dccef6aa488d1dc81d8f577fa39dff27b264e8f8c7514965
-
-#EXTINF:-1 group-title="⚽ Deportes",DSPORTs + Opcion2
-http://flowlive360net.com:80/luisdtvcol-2024/rTBNRDxuqESg/352.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
+https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 #EXTINF:-1 group-title="⚽ Deportes",Teletrac
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -199,9 +198,6 @@ http://38.210.3.64:8090/play/A01E/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",UFC TV HD eventos
 http://vivamax.space:80/live/Dagern6282q9q9/Da5229119a/746656.ts
-
-#EXTINF:-1 group-title="⚽ Deportes",Deportes c13
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
 
 #EXTINF:-1 group-title="⚽ Deportes",DsportParamounth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -235,7 +231,7 @@ https://cdn-live.mundogo.cl/disneyjr/disneyjr.mpd
 
 
 #EXTINF:-1 group-title="👶 Infantil",Discovery Kids
-http://181.78.20.119:58002/play/a00c/index.m3u8
+http://45.181.120.65:9087/play/012/index.m3u8
 
 #EXTINF:-1 group-title="👶 Infantil",Tooncast
 http://181.78.20.119:58002/play/a013/index.m3u8
