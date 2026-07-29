@@ -200,10 +200,10 @@ http://38.210.3.64:8090/play/A01E/index.m3u8
 http://vivamax.space:80/live/Dagern6282q9q9/Da5229119a/746656.ts
 
 #EXTINF:-1 group-title="⚽ Deportes",DsportParamounth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7d88a44bc0255fdc402a1a7c7151545e:a9968e19c6324e12d285836961421755
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd
 
 #EXTINF:-1 group-title="⚽ Deportes",CHV deportes
 http://201.186.41.99:8001/play/a06p/index.m3u8
