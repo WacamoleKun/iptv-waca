@@ -28,6 +28,9 @@ https://cdn-live.mundogo.cl/lared/lared.mpd
 #EXTINF:-1 tvg-name="T13" group-title="🇨🇱 Chile TV",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="T13" group-title="🇨🇱 Chile TV",13C
+http://190.108.83.69:8000/play/a02o/index.m3u8
+
 
 ########################################
 # 🎬 PELÍCULAS Y SERIES
