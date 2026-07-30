@@ -246,3 +246,12 @@ http://181.78.20.119:58002/play/a013/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"146d39b89a0047d390f92cc79a063e14":"c3c9673fc0227d03e9580d4c94ee25de","b145b91f7ff0486192e90f1fab9d1294":"f5a8cad8f5ccb313e146ec3ab9e456bb"}
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/ETCHILE/default/index.mpd
+
+
+
+########################################
+# 24HORAS
+########################################
+
+#EXTINF:-1 group-title="24HORAS",South Park
+http://vivamax.space:80/live/Dagern6282q9q9/Da5229119a/639853.ts
