@@ -127,6 +127,12 @@ https://cdn-live.mundogo.cl/adulswim/adulswim.mpd
 #EXTINF:-1 group-title="📺 Entretenimiento",People Are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="📺 Entretenimiento",Love Nature
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fb528cbb326b537db01c7788985ba482":"6522d2553980fa691ef270e4a02da82e","fc5dd4dd97b653a6b36977bfa844bde2":"0f860f181ec805ee3ee63ffb9712fbb6","0518fc8733615b8b9dab8e944540630c":"88c8d7e0bb1e22466e5f8d407319f796"}
+https://cdn-live.mundogo.cl/lovenature/lovenature.mpd
+
 ########################################
 # ⚽ DEPORTES
 ########################################
@@ -297,3 +303,6 @@ https://cp2.streamchileno.cl/listen/radiocarnaval/radio.mp3
 
 #EXTINF:-1 group-title="📻 RADIOS",ADN
 https://jireh-16-hls-video-cl-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?dpssid=b219004780156a6a167a75117&sid=ba5t1l1xb211799521546a6a167a75116&ndvc=1
+
+#EXTINF:-1 group-title="📻 RADIOS",Radio Pinamar
+https://sonic.mallocohosting.cl/8106/stream
