@@ -29,7 +29,10 @@ https://cdn-live.mundogo.cl/lared/lared.mpd
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="T13" group-title="🇨🇱 Chile TV",13C
-http://190.108.83.69:8000/play/a02o/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"202f287ac90f5b3fa53bd28aee32362e":"65227931eead4ceff1ac90b0dd9fdf1e","6a836bc80817576aafbb2f03ce415412":"9c389391c6b581e44587684ce97417a4","b2b7aee2bfdf55c2ad2659945cc4a555":"45d3e3aa7f135dd890a8bc4dca60a914"}
+https://cdn-live.mundogo.cl/13c/13c.mpd
 
 
 ########################################
@@ -257,3 +260,22 @@ https://tv-mgmt.gtd.cl/bpk-tv/ETCHILE/default/index.mpd
 
 #EXTINF:-1 group-title="24HORAS",South Park
 http://vivamax.space:80/live/Dagern6282q9q9/Da5229119a/639853.ts
+
+
+
+########################################
+# 📻 RADIOS
+########################################
+
+
+#EXTINF:-1 group-title="📻 RADIOS",Mi Radio En VIVO
+https://scl.edge.grupoz.cl/miradio2/live/media-ub8bafrlo_95011.ts
+
+#EXTINF:-1 group-title="📻 RADIOS",BIO BIO TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ae24a02522eb5903b6f7469f99f0006d":"bab8c5792b9375c9081af8b50f8a6a69","d9dfbe8e93a350bab840e3a7b8b918e3":"5b0ea29bfe6714eb1b34d328fe2b9287","4aba769ba6205baebd005d749c2e9a1b":"1ec364a0657772593cd7c3888663b121"}
+https://cdn-live.mundogo.cl/biobiotv/biobiotv.mpd
+
+#EXTINF:-1 group-title="📻 RADIOS",RADIO CARNAVAL
+https://cp2.streamchileno.cl/listen/radiocarnaval/radio.mp3
