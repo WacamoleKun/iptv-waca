@@ -17,7 +17,7 @@ http://45.4.3.177:9999/play/chvmundo
 https://redirector.dps.live/hls/13cl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVN" group-title="🇨🇱 Chile TV",TVN
-http://190.108.83.69:8000/play/a03f/index.m3u8
+http://190.93.229.30:8000/play/a0by/index.m3u8
 
 #EXTINF:-1 tvg-name="La Red" group-title="🇨🇱 Chile TV",La Red
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -283,7 +283,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 # 📻 RADIOS
 ########################################
 
-
 #EXTINF:-1 group-title="📻 RADIOS",Mi Radio En VIVO
 https://audio3.tustreaming.cl/9020/stream?t=1785694628816
 
@@ -295,3 +294,6 @@ https://cdn-live.mundogo.cl/biobiotv/biobiotv.mpd
 
 #EXTINF:-1 group-title="📻 RADIOS",RADIO CARNAVAL
 https://cp2.streamchileno.cl/listen/radiocarnaval/radio.mp3
+
+#EXTINF:-1 group-title="📻 RADIOS",ADN
+https://jireh-16-hls-video-cl-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?dpssid=b219004780156a6a167a75117&sid=ba5t1l1xb211799521546a6a167a75116&ndvc=1
