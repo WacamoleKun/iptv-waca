@@ -34,6 +34,8 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #KODIPROP:inputstream.adaptive.license_key={"202f287ac90f5b3fa53bd28aee32362e":"65227931eead4ceff1ac90b0dd9fdf1e","6a836bc80817576aafbb2f03ce415412":"9c389391c6b581e44587684ce97417a4","b2b7aee2bfdf55c2ad2659945cc4a555":"45d3e3aa7f135dd890a8bc4dca60a914"}
 https://cdn-live.mundogo.cl/13c/13c.mpd
 
+#EXTINF:-1 tvg-name="24 horas" group-title="🇨🇱 Chile TV",24 horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 
 ########################################
 # 🎬 PELÍCULAS Y SERIES
@@ -61,7 +63,7 @@ http://45.181.120.65:9087/play/a0lu/index.m3u8
 http://170.79.235.130:8002/play/a02l/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",Warner Channel
-http://190.108.83.69:8000/play/a04b/index.m3u8
+http://45.173.231.22:8000/play/a064/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Películas",Cine Canal
 http://181.78.20.119:58002/play/a00t/index.m3u8
@@ -75,10 +77,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a0007
 #EXTINF:-1 group-title="🎬 Películas",Pluto Cine Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d870d5f2f7d0007c2f6e4/master.m3u8
 
+#EXTINF:-1 group-title="🎬 Películas",Cine Familiar
+http://181.78.8.199:8000/play/a09p/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Películas",Cine Familiar
+http://190.60.39.195:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Películas",Cine Familiar
+http://181.78.50.91:8000/play/a05r/index.m3u8
 
 ########################################
 # 📺 ENTRETENIMIENTO
 ########################################
+
+#EXTINF:-1 group-title="📺 Entretenimiento",ZONA LATINA
+http://45.162.193.35/ZONALATINA/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento",FOOD NETWORK 
 http://disfruta.net:80/live/bettyAdrian/dR3t36pkjw/103877.ts
@@ -151,8 +164,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",DAZN MUNDIAL FHD
 http://axxfedes.top:8080/ES0158176944698799/ib468nkwigz7/77713
 
-#EXTINF:-1 group-title="⚽ Deportes",ESPN Premium es
-http://190.108.83.69:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes",ESPN Premium CL
+http://190.108.91.206:9050/play/a03w/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN
 http://181.78.20.119:58002/play/a01c/index.m3u8
@@ -184,7 +197,7 @@ http://181.78.20.119:58002/play/a00q/index.m3u8
 http://181.78.20.119:58002/play/a06g/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Fox Sports 1
-http://45.188.229.33:8000/play/a1dh/index.m3u8
+http://181.209.105.115:2525/play/foxsports/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",Fox Sports 2
 http://45.188.229.33:8000/play/a1b1/index.m3u8
@@ -223,7 +236,8 @@ http://179.1.158.52:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",CHV deportes
 http://201.186.41.99:8001/play/a06p/index.m3u8
 
-
+#EXTINF:-1 group-title="⚽ Deportes",DAZN F1
+https://nubexplay.com:8443/live/CamiloFernandez3/bpfMvC/3064.ts
 
 ########################################
 # 👶 INFANTIL
@@ -306,3 +320,48 @@ https://jireh-16-hls-video-cl-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbf
 
 #EXTINF:-1 group-title="📻 RADIOS",Radio Pinamar
 https://sonic.mallocohosting.cl/8106/stream
+
+#EXTINF:-1 group-title="📻 RADIOS",Coperativa
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="📻 RADIOS",Agricultura
+https://jireh-23-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?dpssid=b23982012906a6f98887afd6&sid=ba5t1l1xb21971780846a6f98887afd5&ndvc=1
+
+########################################
+# 🙏 Religiosos
+########################################
+
+#EXTINF:-1 group-title="🙏 Religiosos",TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
+#EXTINF:-1 group-title="🙏 Religiosos",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/bvllzq3p/720/chunklist.m3u8
+
+#EXTINF:-1 group-title="🙏 Religiosos",ISB
+https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8?nimblesessionid=154499041
+
+
+########################################
+# 🎵 Musica
+########################################
+
+#EXTINF:-1 group-title="🎵 Musica",Mundo de la musica
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Musica",Cumbia TV
+http://181.79.86.130:8000/play/a058/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Musica",Avi Concert
+http://45.239.31.254:8000/play/a01n/index.m3u8u?hls
+
+#EXTINF:-1 group-title="🎵 Musica",Memorias pop latino
+http://38.210.105.10:8000/play/a0aq/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Musica",Memorias Salsa
+http://38.211.145.109:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Musica",TVC Vallenato
+http://187.102.195.126:8027/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Musica",Music Top
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
