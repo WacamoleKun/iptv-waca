@@ -146,6 +146,9 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"fb528cbb326b537db01c7788985ba482":"6522d2553980fa691ef270e4a02da82e","fc5dd4dd97b653a6b36977bfa844bde2":"0f860f181ec805ee3ee63ffb9712fbb6","0518fc8733615b8b9dab8e944540630c":"88c8d7e0bb1e22466e5f8d407319f796"}
 https://cdn-live.mundogo.cl/lovenature/lovenature.mpd
 
+#EXTINF:-1 group-title="📺 Entretenimiento",Telemundo
+http://190.93.229.30:8000/play/a0ao/index.m3u8
+
 ########################################
 # ⚽ DEPORTES
 ########################################
