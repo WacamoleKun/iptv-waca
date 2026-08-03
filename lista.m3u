@@ -37,6 +37,9 @@ https://cdn-live.mundogo.cl/13c/13c.mpd
 #EXTINF:-1 tvg-name="24 horas" group-title="🇨🇱 Chile TV",24 horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-name="TV+" group-title="🇨🇱 Chile TV",TV+
+https://jireh-10-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?ndvc=1&dpssid=h1cl6219007888cbea58b9560c2022dda195149c87442&sid=ba5t1l1xb26913214906a701bc7d9756
+
 ########################################
 # 🎬 PELÍCULAS Y SERIES
 ########################################
@@ -340,9 +343,8 @@ https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 group-title="🙏 Religiosos",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/bvllzq3p/720/chunklist.m3u8
 
-#EXTINF:-1 group-title="🙏 Religiosos",ISB
-https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8?nimblesessionid=154499041
-
+#EXTINF:-1 group-title="🙏 Religiosos",ESNE
+https://mf.zype.com/zype_live/live_720p30.m3u8?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZV83MjBwMzAubTN1OCIsImV4cCI6MTc4NTgxNzc2OSwicGFyYW1zIjp7fSwiZGVzdGluYXRpb25fcGFyYW1zIjp7InNpdGVfaWQiOiI1YjYyMTk5OWIwY2M1YjEyNmMwMDExNzAiLCJwbGF5b3V0X2NoYW5uZWxfaWQiOiI2NTNkODcwZC1hNWZmLTQ1YzMtYjNmYS1lZWRjY2UxZmIyYWYiLCJ6cCI6ImxpdmUiLCJzZXNzaW9uX2lkIjoiOTI2ZTRiOTctYmEwNC00YWQ3LWFlZGEtYWMyMjkxNGU0ODM5IiwicmVuZGl0aW9uIjoiNzIwIn0sImlhdCI6MTc4NTczMTM3MH0.4CvhdCfssDraNHwpHGqE9P8kb5GpFLzXxnZBRl7TozE
 
 ########################################
 # 🎵 Musica
