@@ -311,7 +311,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 ########################################
 
 #EXTINF:-1 group-title="📻 RADIOS",Mi Radio En VIVO
-https://audio3.tustreaming.cl/9020/stream?t=1785694628816
+https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="📻 RADIOS",BIO BIO TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -334,6 +334,12 @@ https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="📻 RADIOS",Agricultura
 https://jireh-23-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?dpssid=b23982012906a6f98887afd6&sid=ba5t1l1xb21971780846a6f98887afd5&ndvc=1
 
+#EXTINF:-1 group-title="📻 RADIOS",Onda Radio
+https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="📻 RADIOS",Radio Fantasia
+https://streamtwo.cloudhostservers.com:3831/hybrid/play.m3u8?PlaylistM3UCL
+
 ########################################
 # 🙏 Religiosos
 ########################################
@@ -346,6 +352,18 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/bvllzq3p/720/chunklist.m3
 
 #EXTINF:-1 group-title="🙏 Religiosos",ESNE
 https://mf.zype.com/zype_live/live_720p30.m3u8?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZV83MjBwMzAubTN1OCIsImV4cCI6MTc4NTk1NzU0NCwicGFyYW1zIjp7fSwiZGVzdGluYXRpb25fcGFyYW1zIjp7InNpdGVfaWQiOiI1YjYyMTk5OWIwY2M1YjEyNmMwMDExNzAiLCJwbGF5b3V0X2NoYW5uZWxfaWQiOiI2NTNkODcwZC1hNWZmLTQ1YzMtYjNmYS1lZWRjY2UxZmIyYWYiLCJ6cCI6ImxpdmUiLCJzZXNzaW9uX2lkIjoiNmNmZGFkYmYtMWYzOC00ZDU1LTllYzItYmZjYzk0MjIzMWQ5IiwicmVuZGl0aW9uIjoiNzIwIn0sImlhdCI6MTc4NTg3MTE0NX0.T2u54ff4KibwO2ScMMma4fFnpdlm0OekZFzzk_pgBRY
+
+#EXTINF:-1 group-title="🙏 Religiosos",Mujeres de gloria
+https://v4.tustreaming.cl/graciatv/index.m3u8
+
+#EXTINF:-1 group-title="🙏 Religiosos",El sembrador TV
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
+
+#EXTINF:-1 group-title="🙏 Religiosos",Plenitud TV
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+
+
+
 
 ########################################
 # 🎵 Musica
